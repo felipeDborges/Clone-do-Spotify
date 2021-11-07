@@ -125,7 +125,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
-    background: url("/img/bursts-tablet.svg");
+    background: url("img/bursts-tablet.svg");
     background-size: 175%;
     background-position: 46% 4%;
     background-color: rgb(41, 65, 171);
